@@ -1,0 +1,5 @@
+#Tex collaterals
+
+*.aux
+*.log
+*.gz
